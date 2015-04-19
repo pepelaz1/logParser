@@ -1,0 +1,1 @@
+C# tool for parsing access log text files using regex and searches ip adresses in lines which contains 'google','bing','msn' words..
