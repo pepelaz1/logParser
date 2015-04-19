@@ -1,0 +1,2 @@
+http://www.tlword.net/logs/access_log
+http://www.alekszan.ru/logs/access_log
